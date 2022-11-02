@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Menú de figuras", "Menú de figuras\Menú de figuras.vcxproj", "{FC28E5AD-D82F-429B-BB18-239A31E9C855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC28E5AD-D82F-429B-BB18-239A31E9C855}.Debug|x64.ActiveCfg = Debug|x64
+		{FC28E5AD-D82F-429B-BB18-239A31E9C855}.Debug|x64.Build.0 = Debug|x64
+		{FC28E5AD-D82F-429B-BB18-239A31E9C855}.Debug|x86.ActiveCfg = Debug|Win32
+		{FC28E5AD-D82F-429B-BB18-239A31E9C855}.Debug|x86.Build.0 = Debug|Win32
+		{FC28E5AD-D82F-429B-BB18-239A31E9C855}.Release|x64.ActiveCfg = Release|x64
+		{FC28E5AD-D82F-429B-BB18-239A31E9C855}.Release|x64.Build.0 = Release|x64
+		{FC28E5AD-D82F-429B-BB18-239A31E9C855}.Release|x86.ActiveCfg = Release|Win32
+		{FC28E5AD-D82F-429B-BB18-239A31E9C855}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {224ED74D-352D-449D-A4A6-9FB2669CD92A}
+	EndGlobalSection
+EndGlobal

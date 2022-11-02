@@ -1,0 +1,3 @@
+﻿  Macros.cpp
+c:\users\esteban\desktop\informatica\programasc++\macrosproyecto\macros\macros.cpp(13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Macros.vcxproj -> C:\Users\Esteban\Desktop\Informatica\ProgramasC++\MacrosProyecto\Debug\Macros.exe

@@ -1,0 +1,13 @@
+5) Triangulo Superior
+6) Triangulo Derecho
+7) Triangulo Inferior
+8) Triangulo Izquierdo
+9) Rombo
+10) Salir
+Opcion: 5
+
+Tamaño: 3
+
+    * *
+  * * * *
+* * * * * *

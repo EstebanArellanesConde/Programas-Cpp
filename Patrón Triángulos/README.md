@@ -1,0 +1,4 @@
+Detalles:
+
+C__Users_Esteban_Desktop_Informatica_Programas_ProgramasC++_Triangulo_2_Debug_Triangulo_2.exe 25_05_2019  09_23_57 p. m..mp4
+C__Users_Esteban_Desktop_Informatica_Programas_ProgramasC++_Triangulo_2_Debug_Triangulo_2.exe 25_05_2019  10_01_01 p. m..mp4

@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Menú de figuras.cpp
+c:\users\esteban\desktop\informatica\programas\c++\c++\menú de figuras\menú de figuras\menú de figuras\menú de figuras.cpp(9): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Menú de figuras.vcxproj -> C:\Users\Esteban\Desktop\Informatica\Programas\C++\C++\Menú de figuras\Menú de figuras\Debug\Menú de figuras.exe
